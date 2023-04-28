@@ -2,7 +2,7 @@
 
 ## I'm Levan Parastashvili, a junior front-end developer who is just starting out on my coding journey and learning something new every day. 💻🌱
 
-[![](https://visitcount.itsvg.in/api?id=parastashvili&label=Profile%20Views&color=1&icon=0&pretty=false)]
+![](https://visitcount.itsvg.in/api?id=parastashvili&label=Profile%20Views&color=1&icon=0&pretty=false)
 
 ### I have a deep passion for coding and am always looking for new challenges to improve my skills and knowledge. 🤓💪
 
